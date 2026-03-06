@@ -65,6 +65,7 @@ Preparação para BI e visualizações
 
 🔗 Acesse o código completo aqui:
 👉 https://github.com/felipemassa03
+👉https://colab.research.google.com/drive/17LFxbX2f-Kul_vj7esDDDb2K3Bzt-4zZ?usp=sharing#scrollTo=IEEhPpqQ8dYT
 
 📝 Como usar
 
